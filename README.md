@@ -33,8 +33,8 @@
 
 # INPUT
 ```
-Developed by:LAVANYA S
-Registration Number: 212223230112
+Developed by: KAMAL RAJ A
+Registration Number: 212223040082
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
